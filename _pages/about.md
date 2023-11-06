@@ -65,7 +65,7 @@ Double degree program <br>
 
 **Escola Politécnica da USP** <br>
 Engineer's degree Mechanical Engineering <br>
-2020 - present <br>
+2020 - present [Academic record]({{url}}/files/VITTOR_AR.pdf)
 
 
 **Centro Federal de Educação Tecnológica de Minas GeraisCentro Federal de Educação Tecnológica de Minas Gerais** <br>
