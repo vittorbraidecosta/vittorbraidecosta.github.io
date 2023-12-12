@@ -41,7 +41,8 @@ Jan 2023 - Jul 2023
 * Coordination of 5 active projects and 18 members <br>
 Aug 2021 - Apr 2023 
 
-<img src="images\pet_epetusp.png" alt="image" width="200" height="auto">
+
+<img src="images\pet_epetusp.png" alt="image" width="200" height="auto" align="center">
 
 **Attitude Control Team Lead** - PoliSat
 
@@ -51,7 +52,7 @@ First nanosatellite engineering team in São Paulo University
 - 1st place in the Brazilian National Satellites Olympics <br>
     Jan 2021 - Aug 2022 
 
-<img src="images\polisat.png" alt="image" width="200" height="auto">
+<img src="images\polisat.png" alt="image" width="200" height="auto" align="center">
 
 **Technical Intern** - Blossom Consult
 
