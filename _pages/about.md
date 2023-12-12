@@ -41,6 +41,8 @@ Jan 2023 - Jul 2023
 * Coordination of 5 active projects and 18 members <br>
 Aug 2021 - Apr 2023 
 
+<img src="images\pet_epetusp.jpeg" alt="image" width="300" height="auto">
+
 **Attitude Control Team Lead** - PoliSat
 
 First nanosatellite engineering team in São Paulo University
