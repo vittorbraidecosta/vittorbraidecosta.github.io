@@ -51,7 +51,7 @@ First nanosatellite engineering team in São Paulo University
 - 1st place in the Brazilian National Satellites Olympics <br>
     Jan 2021 - Aug 2022 
 
-<img src="images\polisat.png" alt="image" width="200" height="auto">
+<img src="images\polisat.png" alt="image" width="400" height="auto">
 
 **Technical Intern** - Blossom Consult
 
