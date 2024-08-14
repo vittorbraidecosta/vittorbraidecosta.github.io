@@ -19,7 +19,7 @@ Recipient of the AUCANI merit scholarship
 **Flight Control Laws** - Lilium 
 Lilium is an innovative company developing the first electric vertical take-off and landing (EVTOL) jet. Pushing engineering boundaries, the Lilium Jet has 16 flaps and 30 actuators to pursue hover and forward flight missions. 
 
-Brief description of the addressed activities
+Brief description of the addressed activities:
 * Matlab tool to run Simulink models simulations.
     - Implementation of new features (e.g baseline comparison).
     - Robustness improvement to address different models.
