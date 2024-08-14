@@ -16,6 +16,26 @@ Started my studies in [University of São Paulo (USP)](https://www5.usp.br/). Cu
 Recipient of the AUCANI merit scholarship 
 
 ## Experience 
+**Flight Control Laws** - Lilium 
+Lilium is an innovative company developing the first electric vertical take-off and landing (EVTOL) jet. Pushing engineering boundaries, the Lilium Jet has 16 flaps and 30 actuators to pursue hover and forward flight missions. 
+
+Brief description of the addressed activities
+* Matlab tool to run Simulink models simulations.
+    - Implementation of new features (e.g baseline comparison).
+    - Robustness improvement to address different models.
+* Support in the development of modelling envelopes using trim data.
+* Non-linear simulations automatic criteria evaluation.
+    - Lateral-directional and longitudinal-vertical control responses
+    - Loads and rates thresholds violations.
+    - Flap command and flap deflection conformity. 
+* Jenkins Implementation to track Simulink Flight Control Systems (FCS) model changes.
+    - Job to automatically compile FCS after changes.
+    - Job to run predefined tests and update baseline. 
+    - Job to periodically run a batch of tests and track progress with criteria evaluation.
+* Simulink models compliance with software standards verification
+* Change in the linear design pipeline when using tuning gains
+    - Implement the use of tunable Matlab features to build closed-loop linear models 5x times faster 
+    - Implement new features to the pipeline in order to allowed some user flexibility when choosing the closed-loop components.
 
 **Teacher Assistant** - Escola Politécnica da USP 
 
