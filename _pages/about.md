@@ -38,7 +38,7 @@ Brief description of the addressed activities:
     - Implement the use of tunable Matlab features to build closed-loop linear models 5x times faster 
     - Implement new features to the pipeline in order to allowed some user flexibility when choosing the closed-loop components.
 
-<img src="images\lilium.png" alt="image" width="200" height="auto">
+<img src="images\lilium.jpg" alt="image" width="200" height="auto">
 
 **Teacher Assistant** - Escola Politécnica da USP 
 
