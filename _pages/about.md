@@ -16,7 +16,7 @@ Started my studies in [University of São Paulo (USP)](https://www5.usp.br/). Cu
 Recipient of the AUCANI merit scholarship 
 
 ## Experience 
-**Flight Control Laws** - Lilium
+**Flight Control Laws Internship** - Lilium
 
 Lilium is an innovative company developing the first electric vertical take-off and landing (EVTOL) jet. Pushing engineering boundaries, the Lilium Jet has 16 flaps and 30 actuators to pursue hover and forward flight missions. 
 
