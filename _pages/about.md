@@ -34,9 +34,9 @@ Brief description of the addressed activities:
     - Job to run predefined tests and update baseline. 
     - Job to periodically run a batch of tests and track progress with criteria evaluation.
 * Simulink models compliance with software standards verification
-* Change in the linear design pipeline when using tuning gains
+* Change in the linear design pipeline when tuning gains
     - Implement the use of tunable Matlab features to build closed-loop linear models 5x times faster 
-    - Implement new features to the pipeline in order to allowed some user flexibility when choosing the closed-loop components.
+    - Implement new features to the pipeline in order to allow some user flexibility when choosing the closed-loop components.
 
 <img src="images\lilium.jpg" alt="image" width="200" height="auto">
 
