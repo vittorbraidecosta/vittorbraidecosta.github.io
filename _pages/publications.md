@@ -14,3 +14,5 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+> "Evaluation of Solvers for Optimization-based Control Allocation", Semester Thesis, Technische Universität München, Garching, 2025. ([PDF](({{url}}/files/vittor-semester-thesis.pdf)))
